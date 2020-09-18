@@ -15,7 +15,6 @@ const App = () => {
       animal: "Bird",
       breed: "Cockatail"
     }),
-    // eslint-disable-next-line no-undef
     React.createElement(Pet, { name: "Doink", animal: "Cat", breed: "Mixed" })
   ]);
 };
