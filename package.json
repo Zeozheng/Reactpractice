@@ -1,0 +1,20 @@
+{
+  "name": "Reactpractice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zeozheng/Reactpractice.git"
+  },
+  "keywords": [],
+  "author": "Zoezheng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zeozheng/Reactpractice/issues"
+  },
+  "homepage": "https://github.com/Zeozheng/Reactpractice#readme"
+}
